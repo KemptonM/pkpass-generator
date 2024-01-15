@@ -1,4 +1,4 @@
-.PKPASS Generator
+# .PKPASS Generator
 
 An app that parses e-tickets in PDF form and generates PKPASS files for secure storage in mobile wallets
 
