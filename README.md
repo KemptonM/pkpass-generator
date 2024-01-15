@@ -4,7 +4,7 @@
 
 #### Development plan:
 
-#### 1. PDF Parsing:
+##### 1. PDF Parsing:
 * Use a PDF parsing library to extract text and relevant information from the e-ticket PDF
 
 ##### 2. Data Extraction:
